@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "302a580e-dd57-4082-86f5-4409c03299e7": {
+      "ProjectGuid": "302a580e-dd57-4082-86f5-4409c03299e7",
+      "DisplayName": "Dev.IO.Api",
+      "ColorIndex": 0
+    },
+    "90740578-317c-451f-a842-e60997dea63e": {
+      "ProjectGuid": "90740578-317c-451f-a842-e60997dea63e",
+      "DisplayName": "DevIO.Business",
+      "ColorIndex": 1
+    },
+    "8f402fb9-52c4-4126-80d8-12e92beb4276": {
+      "ProjectGuid": "8f402fb9-52c4-4126-80d8-12e92beb4276",
+      "DisplayName": "DevIO.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
